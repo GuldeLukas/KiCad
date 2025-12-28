@@ -1,0 +1,22 @@
+# KiCad temporäre Dateien
+*-bak
+*-backup
+_autosave-*
+fp-info-cache
+*.lck
+~*.lck
+
+# KiCad Backup-Ordner
+*-backups/
+SMB-Lampe-backups/
+
+# Exportierte Fertigungsdaten
+fabrication/gerber/
+fabrication/drill/
+
+# PDFs (optional, je nach Workflow kann entfernt werden)
+*.pdf 
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
