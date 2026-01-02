@@ -296,7 +296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6afeca57-4ea9-45eb-8c57-3a2a795ba433")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 62.23 39.2998 0)
 			(effects
 				(font
@@ -356,7 +356,7 @@
 		(instances
 			(project "SMB-Lampe"
 				(path "/4831ca1b-de6c-4f01-b2f4-c7955e9e85c5/cf45c117-84b0-4357-8470-1c2bf47a1b84"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
