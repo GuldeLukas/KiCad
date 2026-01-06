@@ -1577,6 +1577,26 @@
 		)
 		(uuid "f4d9b701-63c8-4a40-9b43-0f5542793b86")
 	)
+	(label "Hinterbein hinten Seite 2 LED"
+		(at 88.9 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9647a02c-5698-469a-85ba-3e809ea26d9a")
+	)
+	(label "Hinterbein hinten Seite 1 LED"
+		(at 53.34 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fcde3939-d968-4da4-a631-fe83723ca47a")
+	)
 	(global_label "Data"
 		(shape input)
 		(at 25.4 120.65 180)

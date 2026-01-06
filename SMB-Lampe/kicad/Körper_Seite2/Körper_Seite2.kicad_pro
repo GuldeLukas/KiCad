@@ -51,13 +51,7 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -186,10 +180,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.3
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -216,12 +207,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -444,7 +430,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -465,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SMB-Lampe.kicad_pro",
+    "filename": "Körper_Seite2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -574,26 +560,14 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Beschreibung",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "",
+      "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Referenz"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -635,39 +609,6 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [
-    [
-      "4831ca1b-de6c-4f01-b2f4-c7955e9e85c5",
-      "Root"
-    ],
-    [
-      "cefd35d6-050b-4482-ab35-5902e09a69d9",
-      "Hauptplatine"
-    ],
-    [
-      "5b746b9f-02d4-420a-904b-6236dfc25b23",
-      "Hinterbein_hinten_Seite1_LED-P"
-    ],
-    [
-      "f45513b2-097e-4243-87b1-7588f147013e",
-      "Hinterbein_hinten_Seite2_LED-P"
-    ],
-    [
-      "d1744da5-8ca0-45a6-b57b-7f1dc64c0fc7",
-      "Körper_Seite1"
-    ],
-    [
-      "dadbf55d-08cb-4fb1-a15e-5d418937ac41",
-      "Körper_Seite2"
-    ],
-    [
-      "cf45c117-84b0-4357-8470-1c2bf47a1b84",
-      "Hinterbein_vorne_Seite1_LED-P"
-    ],
-    [
-      "4e6c9bb8-bd02-4f10-8979-250e9d06ca36",
-      "Hinterbein_vorne_Seite2_LED-P"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {}
 }

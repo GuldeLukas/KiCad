@@ -623,6 +623,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Hinterbeein hinten\nSeite 1 LED"
+		(exclude_from_sim no)
+		(at 64.008 74.676 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+		)
+		(uuid "5fd3ab59-8b2b-48c8-bd0a-489132d1bda6")
+	)
+	(text "Hinterbein hinten\nSeite 2 LED"
+		(exclude_from_sim no)
+		(at 103.124 74.93 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+		)
+		(uuid "e8ac6e5e-985d-49ae-917f-8c695f19b8b0")
+	)
 	(junction
 		(at 38.1 25.4)
 		(diameter 0)
@@ -924,26 +944,6 @@
 			(type default)
 		)
 		(uuid "eebf0375-5437-4067-9eed-dd09c03999ba")
-	)
-	(label "Hinterbein hinten Seite 1 LED"
-		(at 53.34 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1d29bec4-cbe6-4716-b862-89fbe7cd8bae")
-	)
-	(label "Hinterbein hinten Seite 2 LED"
-		(at 88.9 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2d0c9a3-29d7-4da9-9b23-75c8aefa3182")
 	)
 	(hierarchical_label "+5V_OUT"
 		(shape input)
