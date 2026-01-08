@@ -188,6 +188,7 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.4
       ],
       "tuning_pattern_settings": {
@@ -504,7 +505,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Körper_Seite1.step",
       "svg": "",
       "vrml": ""
     },
