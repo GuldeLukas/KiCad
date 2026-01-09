@@ -1096,7 +1096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eigenen_Library:MountingHole D2,5 x d1 test"
+		(property "Footprint" "Eigenen_Library:MountingHole D2 x d1 test"
 			(at 60.96 44.45 0)
 			(effects
 				(font
@@ -1161,7 +1161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eigenen_Library:MountingHole D2,5 x d1 test"
+		(property "Footprint" "Eigenen_Library:MountingHole D2 x d1 test"
 			(at 60.96 63.5 0)
 			(effects
 				(font
@@ -1226,7 +1226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eigenen_Library:MountingHole D2,5 x d1 test"
+		(property "Footprint" "Eigenen_Library:MountingHole D2 x d1 test"
 			(at 60.96 25.4 0)
 			(effects
 				(font

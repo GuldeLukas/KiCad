@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Hinterbein_hinten_Seite1_LED-P.kicad_pro",
+    "filename": "Hinterbein_hinten_Seite2_LED-P.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -624,11 +624,6 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [
-    [
-      "a4509e87-5503-4154-8e73-9784c4a4e9d8",
-      "Root"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {}
 }
