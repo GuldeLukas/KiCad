@@ -730,7 +730,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Hinterbeein hinten\nSeite 1 LED"
+	(text "Hinterbein hinten\nSeite 1 LED"
 		(exclude_from_sim no)
 		(at 89.408 74.676 0)
 		(effects
