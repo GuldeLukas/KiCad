@@ -890,6 +890,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 106.68) (xy 165.1 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32ae028f-ac5d-461f-861b-6be79a72c862")
+	)
+	(wire
+		(pts
 			(xy 140.97 80.01) (xy 147.32 80.01)
 		)
 		(stroke
@@ -940,6 +950,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 116.84) (xy 165.1 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5776f41e-6645-4d4f-b62d-7161ddad1f31")
+	)
+	(wire
+		(pts
 			(xy 144.78 91.44) (xy 104.14 91.44)
 		)
 		(stroke
@@ -950,6 +970,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 106.68) (xy 165.1 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f1440c6-f7ed-4bdc-b12e-d9e53fad87fd")
+	)
+	(wire
+		(pts
 			(xy 152.4 59.69) (xy 152.4 64.77)
 		)
 		(stroke
@@ -957,6 +987,16 @@
 			(type default)
 		)
 		(uuid "62664aa6-3e8c-4ca9-b5c6-ba5fffbc3737")
+	)
+	(wire
+		(pts
+			(xy 165.1 109.22) (xy 171.45 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "675f7d62-2f91-4244-8d3c-c5b7e8d8394f")
 	)
 	(wire
 		(pts
@@ -1030,6 +1070,26 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 129.54) (xy 166.37 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9daa4fb2-60a5-43e4-b7e7-34abe4377baa")
+	)
+	(wire
+		(pts
+			(xy 165.1 102.87) (xy 171.45 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e15ee6f-64fb-4a75-8e3a-6faa1730f541")
+	)
+	(wire
+		(pts
 			(xy 50.8 27.94) (xy 50.8 33.02)
 		)
 		(stroke
@@ -1047,6 +1107,16 @@
 			(type default)
 		)
 		(uuid "ac4e22b6-069e-463a-9307-97c1038fbdc4")
+	)
+	(wire
+		(pts
+			(xy 166.37 129.54) (xy 166.37 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1753011-f4d1-4f16-8ed0-737a9195a81c")
 	)
 	(wire
 		(pts
@@ -1070,6 +1140,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 115.57) (xy 171.45 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8c7b126-2953-478e-8fe5-ef201b0214ec")
+	)
+	(wire
+		(pts
 			(xy 147.32 74.93) (xy 153.67 74.93)
 		)
 		(stroke
@@ -1087,6 +1167,16 @@
 			(type default)
 		)
 		(uuid "f55eb927-6477-44e1-99f3-15accdd3833f")
+	)
+	(wire
+		(pts
+			(xy 165.1 116.84) (xy 165.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97f5afb-612f-449f-98c2-34821910fcdd")
 	)
 	(wire
 		(pts
@@ -1643,7 +1733,7 @@
 			)
 		)
 		(pin "Data_In__Hinterbein_hinten_Seite2" input
-			(at 116.84 120.65 180)
+			(at 116.84 114.3 180)
 			(uuid "882bd4a2-c260-4f9d-a429-5738954c9964")
 			(effects
 				(font

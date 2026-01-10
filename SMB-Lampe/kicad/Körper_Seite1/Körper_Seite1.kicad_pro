@@ -501,7 +501,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
@@ -624,6 +624,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "9afaa70b-d6c1-49f8-8c5f-891f522863ae",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }
