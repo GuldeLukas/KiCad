@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.5,
-          "width": 1.5
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -188,8 +188,7 @@
       ],
       "track_widths": [
         0.0,
-        0.2,
-        0.4
+        0.2
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -466,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Körper_Seite2.kicad_pro",
+    "filename": "Hinterbein_vorne_Seite1_LED-P.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -626,7 +625,7 @@
   },
   "sheets": [
     [
-      "0ec45442-3849-4562-aeb8-181106077608",
+      "b5e57816-9346-41ea-9ec4-0c6721db87c9",
       "Root"
     ]
   ],
