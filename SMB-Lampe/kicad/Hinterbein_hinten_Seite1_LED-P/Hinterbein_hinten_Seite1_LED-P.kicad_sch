@@ -1104,7 +1104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bbebc63-0aef-4826-9d1a-47887a222eca")
-		(property "Reference" "J2"
+		(property "Reference" "J5"
 			(at 59.055 58.42 0)
 			(effects
 				(font
@@ -1175,7 +1175,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cbd3720-3320-4f7b-af85-798e4969d987")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR05"
 			(at 63.5 69.85 0)
 			(effects
 				(font
@@ -1551,7 +1551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 78.4352 35.56 0)
 			(effects
 				(font
@@ -1608,7 +1608,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6399ad7c-d156-451d-8984-7a1a1bdb3ede")
-		(property "Reference" "J4"
+		(property "Reference" "J2"
 			(at 182.245 20.32 0)
 			(effects
 				(font
@@ -1749,7 +1749,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a1d5168-a030-4ce4-8f57-eee86525ba49")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR03"
 			(at 77.47 41.91 0)
 			(effects
 				(font
@@ -1821,7 +1821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae6789e2-3924-46c6-aac3-b8645af9ee10")
-		(property "Reference" "J5"
+		(property "Reference" "J6"
 			(at 182.245 58.42 0)
 			(effects
 				(font
