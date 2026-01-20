@@ -38,7 +38,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_57557573)
+			(layerselection 0x00000000_00000000_55555555_57555551)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -1420,6 +1420,46 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_line
+		(start 149.9 63.9)
+		(end 149.9 64.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "5f717855-5103-43e9-a7da-39c2089700de")
+	)
+	(gr_line
+		(start 154.8 64.4)
+		(end 155.4 64.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "8cae3200-b4a6-4428-ac8c-36c915d21f50")
+	)
+	(gr_line
+		(start 155.2 68.4)
+		(end 155.2 68.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "c97e4e47-1ed2-40ee-ba23-ccafbe16c6ed")
+	)
+	(gr_line
+		(start 149.6 64.2)
+		(end 150.2 64.2)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "d29c53f6-3a38-4d66-9094-da4549058388")
 	)
 	(gr_line
 		(start 147.229004 89.094574)

@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.5"
     },
-    "CreationDate": "2026-01-13T16:57:50+01:00"
+    "CreationDate": "2026-01-19T13:08:03+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,7 +14,7 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 10.7641,
+      "X": 11.6147,
       "Y": 29.2646
     },
     "LayerNumber": 2,
@@ -35,21 +35,6 @@
       "Path": "Hinterbein_vorne_Seite1_LED-P-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Hinterbein_vorne_Seite1_LED-P-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Hinterbein_vorne_Seite1_LED-P-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Hinterbein_vorne_Seite1_LED-P-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
     },
     {
       "Path": "Hinterbein_vorne_Seite1_LED-P-Edge_Cuts.gbr",

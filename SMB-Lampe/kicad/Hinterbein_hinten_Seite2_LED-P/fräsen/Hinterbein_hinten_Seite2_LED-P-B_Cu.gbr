@@ -1,0 +1,31 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2026-01-19T12:43:50+01:00*%
+%TF.ProjectId,Hinterbein_hinten_Seite2_LED-P,48696e74-6572-4626-9569-6e5f68696e74,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2026-01-19 12:43:50*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,1.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,H3,1,1*%
+%TO.N,GND*%
+X135500000Y-100700000D03*
+%TD*%
+%TO.P,H1,1,1*%
+%TO.N,/+5V_IN_Hinterbein_hinten_Seite1*%
+X131730000Y-97290000D03*
+%TD*%
+%TO.P,H2,1,1*%
+%TO.N,/Data_IN_Hinterbein_hinten_Seite1*%
+X134500000Y-86700000D03*
+%TD*%
+M02*

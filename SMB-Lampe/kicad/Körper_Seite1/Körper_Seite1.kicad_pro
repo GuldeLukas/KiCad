@@ -503,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "Fräsen/",
+      "plot": "fräsen/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Fräsen/260112/Körper_Seite1.step",
