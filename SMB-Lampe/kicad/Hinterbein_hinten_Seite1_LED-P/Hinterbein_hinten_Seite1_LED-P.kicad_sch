@@ -1166,78 +1166,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 63.5 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3cbd3720-3320-4f7b-af85-798e4969d987")
-		(property "Reference" "#PWR05"
-			(at 63.5 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 63.5 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 63.5 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 63.5 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ea6d1134-d85c-452b-b1b4-20fe5a0b0742")
-		)
-		(instances
-			(project ""
-				(path "/4831ca1b-de6c-4f01-b2f4-c7955e9e85c5/5b746b9f-02d4-420a-904b-6236dfc25b23"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-			(project "Hinterbein_hinten_Seite1_LED-P"
-				(path "/a4509e87-5503-4154-8e73-9784c4a4e9d8"
-					(reference "#PWR0103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 180.34 44.45 270)
 		(unit 1)
@@ -1670,6 +1598,78 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 63.5 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65561d51-fe6e-45ef-8bd6-9b81e42ab76c")
+		(property "Reference" "#PWR05"
+			(at 63.5 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 63.5 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea6d1134-d85c-452b-b1b4-20fe5a0b0742")
+		)
+		(instances
+			(project ""
+				(path "/4831ca1b-de6c-4f01-b2f4-c7955e9e85c5/5b746b9f-02d4-420a-904b-6236dfc25b23"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+			(project "Hinterbein_hinten_Seite1_LED-P"
+				(path "/a4509e87-5503-4154-8e73-9784c4a4e9d8"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 58.42 44.45 0)
 		(unit 1)
@@ -1735,77 +1735,6 @@
 			(project ""
 				(path "/a4509e87-5503-4154-8e73-9784c4a4e9d8"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 77.47 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8a1d5168-a030-4ce4-8f57-eee86525ba49")
-		(property "Reference" "#PWR03"
-			(at 77.47 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 77.47 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 77.47 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7d9efaee-07d4-4cc2-8cb2-73c9e10090bf")
-		)
-		(instances
-			(project ""
-				(path "/4831ca1b-de6c-4f01-b2f4-c7955e9e85c5/5b746b9f-02d4-420a-904b-6236dfc25b23"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-			(project "Hinterbein_hinten_Seite1_LED-P"
-				(path "/a4509e87-5503-4154-8e73-9784c4a4e9d8"
-					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -1958,6 +1887,77 @@
 			(project "Hinterbein_hinten_Seite1_LED-P"
 				(path "/a4509e87-5503-4154-8e73-9784c4a4e9d8"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 77.47 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e92f3436-aec3-48a6-9ccb-30916d4fc03e")
+		(property "Reference" "#PWR03"
+			(at 77.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 77.47 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d9efaee-07d4-4cc2-8cb2-73c9e10090bf")
+		)
+		(instances
+			(project ""
+				(path "/4831ca1b-de6c-4f01-b2f4-c7955e9e85c5/5b746b9f-02d4-420a-904b-6236dfc25b23"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+			(project "Hinterbein_hinten_Seite1_LED-P"
+				(path "/a4509e87-5503-4154-8e73-9784c4a4e9d8"
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
