@@ -831,9 +831,9 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D6"
-			(at 0 -2.12132 45)
+			(at 0 4.242641 45)
 			(layer "F.SilkS")
-			(uuid "af5491a3-e2d4-436a-b437-239fd57745d8")
+			(uuid "48ad83c0-6648-46a5-bf84-b01c23c1f522")
 			(effects
 				(font
 					(size 1 1)
@@ -844,7 +844,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 45)
 			(layer "F.Fab")
-			(uuid "f4ecd506-c756-44a6-a096-a4bc10a7eaba")
+			(uuid "0baf7fe5-3aa5-4e38-97ce-1092c69fc147")
 			(effects
 				(font
 					(size 1 1)
@@ -857,7 +857,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7bb77be4-f101-48f6-8bfe-b001e8ca81d3")
+			(uuid "98d0b669-193e-460c-ae04-baaf0c67f478")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -870,7 +870,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cb3bd631-b46e-4d4f-9ca7-3e0288ee73e8")
+			(uuid "e19f1e78-0767-4d02-a7ab-06698a3e33b2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1137,7 +1137,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at 0 -1.43 90)
+			(at 0 2 90)
 			(layer "F.SilkS")
 			(uuid "4bd98968-b831-4ad3-9612-efa9e87775c9")
 			(effects
@@ -1336,7 +1336,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D9"
-			(at 0.146747 1.513594 75)
+			(at 4.57081 -2.260021 75)
 			(layer "F.SilkS")
 			(uuid "bf5001cb-d104-4ece-b8b5-7e64b1d06e2b")
 			(effects
@@ -2037,7 +2037,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C6"
-			(at 0 -1.43 135)
+			(at 0 2.12132 135)
 			(layer "F.SilkS")
 			(uuid "c7615c78-b1dc-4bfa-ba1e-a927964b88bb")
 			(effects
@@ -2236,7 +2236,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
-			(at 0 -1.43 65)
+			(at 0.321251 1.505265 65)
 			(layer "F.SilkS")
 			(uuid "4ffb4e70-364c-4dbb-b951-76d941106bd0")
 			(effects
@@ -2435,7 +2435,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at 0 -1.43 90)
+			(at 0 2 90)
 			(layer "F.SilkS")
 			(uuid "b9057abf-7619-4c1c-92bc-29b2cb3a8515")
 			(effects
@@ -2833,7 +2833,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D8"
-			(at 0.148507 -1.266075 18)
+			(at 5.206805 -1.462593 18)
 			(layer "F.SilkS")
 			(uuid "f44a2f6e-0413-4862-99cb-b9ea7e7dc315")
 			(effects
@@ -3139,7 +3139,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C8"
-			(at 0.391225 1.546591 288)
+			(at 0.172513 1.896112 288)
 			(layer "F.SilkS")
 			(uuid "ea214d7a-f328-40a5-afab-9738e452e259")
 			(effects
@@ -3338,7 +3338,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D4"
-			(at 0 -1.75 0)
+			(at 0 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "7bae379d-a166-4a90-9f34-7763c5d8de18")
 			(effects
@@ -3843,7 +3843,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D3"
-			(at 0 -1.75 0)
+			(at 0 4 0)
 			(layer "F.SilkS")
 			(uuid "c3ad42d2-7be6-40b6-8e46-ce7e0401aadc")
 			(effects
@@ -4505,6 +4505,7 @@
 		(property "Reference" "REF**"
 			(at 2.298097 -2.298097 45)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "76aad424-26ed-46e1-bb00-9edf7cd5b23d")
 			(effects
 				(font
@@ -4658,7 +4659,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D5"
-			(at 0 -1.5 90)
+			(at 0 4.5 90)
 			(layer "F.SilkS")
 			(uuid "6ff9e990-0c95-4077-bba1-85f6eb2970f2")
 			(effects
@@ -4964,7 +4965,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D1"
-			(at 0.075119 1.344194 155)
+			(at 0.119702 3.806005 155)
 			(layer "F.SilkS")
 			(uuid "b7757cff-2f49-4880-8597-ee3d36b5b82f")
 			(effects
@@ -5667,6 +5668,7 @@
 		(property "Reference" "REF**"
 			(at 0 -1.648 45)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ec2c2512-f913-42b0-8c1a-e87f7c152d72")
 			(effects
 				(font
@@ -5820,7 +5822,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C9"
-			(at 0 -1.43 0)
+			(at 0 2 0)
 			(layer "F.SilkS")
 			(uuid "bfd21221-1a98-44de-ab44-e40061e46cb3")
 			(effects
@@ -6297,7 +6299,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D7"
-			(at 0.049953 -1.456882 151)
+			(at 0.052406 -4.030788 151)
 			(layer "F.SilkS")
 			(uuid "08bc07e9-f132-431f-ba67-93d551f2317a")
 			(effects

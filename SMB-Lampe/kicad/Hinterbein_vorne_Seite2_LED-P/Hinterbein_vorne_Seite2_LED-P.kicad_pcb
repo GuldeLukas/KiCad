@@ -522,7 +522,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D1"
-			(at 1.056812 -0.340071 108)
+			(at -1.571137 -3.675395 108)
 			(layer "F.SilkS")
 			(uuid "5ce3f359-b94b-4a1f-9524-5e7273dbc19f")
 			(effects
@@ -826,7 +826,7 @@
 		(uuid "e39a6f48-af9b-4ffc-a9bd-19217fc03a58")
 		(at 154.85 110.35)
 		(property "Reference" "H3"
-			(at -0.13 -2.09 90)
+			(at 0.65 -1.85 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "7a022a97-6292-4da6-991d-8ec20eef7c55")

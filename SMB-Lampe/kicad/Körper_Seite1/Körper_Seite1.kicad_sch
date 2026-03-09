@@ -1748,7 +1748,7 @@
 		)
 		(uuid "feec64c8-788b-42c5-9034-3ea1d4ac8811")
 	)
-	(global_label "Data"
+	(global_label "Data1"
 		(shape input)
 		(at 25.4 120.65 180)
 		(fields_autoplaced yes)
@@ -1760,7 +1760,7 @@
 		)
 		(uuid "0982aa2d-16d3-451b-a7a9-f6c6bf05dc5e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1211 120.65 0)
+			(at 16.9116 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1770,7 +1770,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "+5V_1"
 		(shape input)
 		(at 25.4 101.6 180)
 		(fields_autoplaced yes)
@@ -1782,7 +1782,7 @@
 		)
 		(uuid "8e91be3a-1e2a-4fe9-a91d-4e3d4dfb0e3a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.5443 101.6 0)
+			(at 16.3672 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1792,7 +1792,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "+5V_1"
 		(shape input)
 		(at 260.35 25.4 0)
 		(fields_autoplaced yes)
@@ -1804,7 +1804,7 @@
 		)
 		(uuid "c0a4bd42-a0ff-442e-a910-1f2c551d2cec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 267.2057 25.4 0)
+			(at 269.3828 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1814,7 +1814,7 @@
 			)
 		)
 	)
-	(global_label "Data"
+	(global_label "Data1"
 		(shape input)
 		(at 260.35 44.45 0)
 		(fields_autoplaced yes)
@@ -1826,7 +1826,7 @@
 		)
 		(uuid "ed014e06-1a80-4a2a-b82c-4da47560eb04")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 267.6289 44.45 0)
+			(at 268.8384 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
