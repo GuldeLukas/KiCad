@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "a4509e87-5503-4154-8e73-9784c4a4e9d8")
 	(paper "A4")
+	(title_block
+		(title "Projektaarbeit SMB-Lampe")
+		(date "2026-03-31")
+		(company "IFM / Lukas Gulde")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
@@ -1545,7 +1550,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 182.245 22.86 0)
+			(at 182.372 22.352 0)
 			(effects
 				(font
 					(size 1.27 1.27)

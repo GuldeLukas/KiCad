@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "47d43428-8b74-42e4-922b-c564d80da2e6")
 	(paper "A4")
+	(title_block
+		(title "Projektaarbeit SMB-Lampe")
+		(date "2026-03-31")
+		(company "IFM / Lukas Gulde")
+		(comment 1 "Hauptplatine")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
@@ -1560,16 +1566,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 86.36) (xy 102.87 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26a7c805-9057-4099-a00e-5a227d695a3e")
-	)
-	(wire
-		(pts
 			(xy 129.54 96.52) (xy 139.7 96.52)
 		)
 		(stroke
@@ -1577,6 +1573,16 @@
 			(type default)
 		)
 		(uuid "320c1565-3fe5-4f18-b4fa-775b11678840")
+	)
+	(wire
+		(pts
+			(xy 102.87 86.36) (xy 63.5 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36bf2f2a-a1a1-4816-9fe1-c24c57b78d74")
 	)
 	(wire
 		(pts
@@ -1720,7 +1726,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 81.28) (xy 102.87 81.28)
+			(xy 128.27 78.74) (xy 102.87 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1740,7 +1746,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 53.34) (xy 133.35 53.34)
+			(xy 128.27 53.34) (xy 133.35 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1760,7 +1766,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 81.28) (xy 123.19 53.34)
+			(xy 128.27 78.74) (xy 128.27 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1790,7 +1796,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 81.28) (xy 102.87 86.36)
+			(xy 102.87 78.74) (xy 102.87 86.36)
 		)
 		(stroke
 			(width 0)

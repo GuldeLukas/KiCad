@@ -2710,7 +2710,7 @@
 		(uuid "5bdeb455-4b75-4aae-a1c9-664e87555239")
 		(at 110.5 105.5)
 		(property "Reference" "H3"
-			(at 0 -1 0)
+			(at 0.1 -1.9 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d06ab736-18dc-48fa-adc4-040f9ec0fddc")
@@ -5559,7 +5559,7 @@
 		(uuid "e5f8670e-d8b0-402e-b2d2-8968883b3953")
 		(at 114.5 105.5)
 		(property "Reference" "H1"
-			(at 0 -1 0)
+			(at 0.1 -1.9 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "6a3e1e3c-7f20-4d5a-8200-8bab55295ba1")

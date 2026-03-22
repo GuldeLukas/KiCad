@@ -2020,7 +2020,7 @@
 		(uuid "df72c7ca-28bc-482f-90aa-b2f6513975e0")
 	)
 	(gr_text "-108\n"
-		(at 146 78 0)
+		(at 141.5 77 0)
 		(layer "User.4")
 		(uuid "dd624b66-b2fc-47c9-be9b-99c53c612b63")
 		(effects

@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "4831ca1b-de6c-4f01-b2f4-c7955e9e85c5")
 	(paper "A4")
+	(title_block
+		(title "Projektaarbeit SMB-Lampe")
+		(date "2026-03-31")
+		(company "IFM / Lukas Gulde")
+		(comment 1 "Gesamtschaltplan")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_PowerOnly_6P"
 			(pin_names
@@ -1857,7 +1863,17 @@
 		)
 		(uuid "f7d99b22-f781-4f4e-87ce-73dbd82228d9")
 	)
-	(label "bu"
+	(label ""
+		(at 125.73 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "001bc77f-302f-4bcc-9bd1-1764d61462fa")
+	)
+	(label "bk"
 		(at 116.84 96.52 0)
 		(effects
 			(font
@@ -1927,7 +1943,7 @@
 		)
 		(uuid "3a31a8aa-7c86-4366-9f87-d211a7994c2d")
 	)
-	(label "bu"
+	(label "bk"
 		(at 96.52 50.8 0)
 		(effects
 			(font
@@ -1997,7 +2013,7 @@
 		)
 		(uuid "94ec62e3-0f1b-4515-84d9-228cbfda9e05")
 	)
-	(label "bu"
+	(label "bk"
 		(at 168.91 149.86 0)
 		(effects
 			(font
