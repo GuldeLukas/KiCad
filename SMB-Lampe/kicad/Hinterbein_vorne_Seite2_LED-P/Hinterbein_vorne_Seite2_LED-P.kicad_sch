@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "0dbe4683-bde5-43de-b508-1e139394c59a")
 	(paper "A4")
+	(title_block
+		(title "Projektaarbeit SMB-Lampe")
+		(date "2026-03-31")
+		(company "IFM / Lukas Gulde")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers

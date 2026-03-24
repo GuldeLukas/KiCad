@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "9afaa70b-d6c1-49f8-8c5f-891f522863ae")
 	(paper "A4")
+	(title_block
+		(title "Projektaarbeit SMB-Lampe")
+		(date "2026-03-31")
+		(company "IFM / Lukas Gulde")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
@@ -730,45 +735,45 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "+5V für LED 5-8 Seite 2"
+	(text "GND für LED 7-10 Seite1\n(Platinreferenc 5-8)\n"
 		(exclude_from_sim no)
-		(at 256.286 95.504 0)
+		(at 31.75 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "0af93813-e55b-4f33-8666-83f7172fd456")
+		(uuid "3d55400f-c649-45e1-afb4-d0bdf09c0d08")
 	)
-	(text "GND für LED 2-4,9 Seite 2"
+	(text "+5V für LED 16-19 Seite 2\n(Platinreferenc 5-8)"
 		(exclude_from_sim no)
-		(at 260.858 151.638 0)
+		(at 258.318 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "2216f42c-92dd-4e9a-9458-eb51e97b8448")
+		(uuid "70ecd514-e5b7-4894-b3b2-be88870f1294")
 	)
-	(text "GND für LED 5-8 Seite 1"
+	(text "+5V für LED 13-15,20 Seite 2\n(Platinreferenc 2-4,9)"
 		(exclude_from_sim no)
-		(at 33.528 71.628 0)
+		(at 259.588 89.408 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "67e2b7b5-2c7e-4958-9428-eddf757093e4")
+		(uuid "cce32a61-96af-4e3c-afa6-277a6b240a51")
 	)
-	(text "+5V für LED 2-4,9 Seite 2"
+	(text "GND für LED 13-15,20 Seite 2\n(Platinreferenc 2-4,9)"
 		(exclude_from_sim no)
-		(at 257.302 90.678 0)
+		(at 262.89 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "c550c856-14e6-4d86-9605-c3c821195e80")
+		(uuid "e8ebd8db-ce33-45c5-b194-0e1f9535909f")
 	)
 	(junction
 		(at 99.06 101.6)

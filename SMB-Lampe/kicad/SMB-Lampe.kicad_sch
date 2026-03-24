@@ -8,7 +8,7 @@
 		(title "Projektaarbeit SMB-Lampe")
 		(date "2026-03-31")
 		(company "IFM / Lukas Gulde")
-		(comment 1 "Gesamtschaltplan")
+		(comment 1 "Stammblatt")
 	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_PowerOnly_6P"

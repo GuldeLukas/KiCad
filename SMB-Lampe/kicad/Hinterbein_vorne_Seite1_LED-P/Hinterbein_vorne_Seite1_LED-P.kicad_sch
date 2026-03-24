@@ -5,7 +5,9 @@
 	(uuid "b5e57816-9346-41ea-9ec4-0c6721db87c9")
 	(paper "A4")
 	(title_block
-		(company "IFM")
+		(title "Projektaarbeit SMB-Lampe")
+		(date "2026-03-31")
+		(company "IFM / Lukas Gulde")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
